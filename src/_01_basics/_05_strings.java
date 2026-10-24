@@ -28,6 +28,7 @@ public class _05_strings {
        String[] heros = {"shaktiman", "naagraj", "doga"};
         String name2 = "sujit";
         System.out.println(name2.toUpperCase());
+        
 	}
 
 }
